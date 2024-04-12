@@ -1,3 +1,3 @@
-[img]test.PNG
+<img>test.PNG</img>
 Hello.
 Can you see this text?
