@@ -1,3 +1,2 @@
-"How" to add something [into] mindustry?;lesson-1;
-<img>image.png</img>
+How to add something in mindustry?;lesson-1;
 Event types explained.;lesson-2;
