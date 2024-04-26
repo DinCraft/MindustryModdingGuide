@@ -2,3 +2,4 @@ This tutorial is about catching events.
 Here is an example of unit being spawned:
 <img>2.PNG</img>
 I hope you liked it!
+<img>4.PNG</img>
