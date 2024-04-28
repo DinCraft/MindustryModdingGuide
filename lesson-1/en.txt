@@ -3,3 +3,4 @@ This is Weapon_5 class:
 <img>1.PNG</img>
 These are some methods from enemy class:
 <img>3.PNG</img>
+<img>5.PNG</img>
