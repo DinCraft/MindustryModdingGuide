@@ -40,6 +40,10 @@
         {
         	"type":"text",
         	"text":"If you see something like this then congratulations! You're ready for Mindustry modding."
+        },
+        {
+            "type":"image",
+            "link":"7.PNG"
         }
     ]
 }
