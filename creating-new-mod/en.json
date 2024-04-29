@@ -6,8 +6,8 @@
         },
         {
             "type":"link",
-            "text":"Some text",
-            "link":"https://json.org/example.html"
+            "text":"MindustryJavaModTemplate",
+            "link":"https://github.com/Anuken/MindustryJavaModTemplate"
         },
         {
             "type":"image",
