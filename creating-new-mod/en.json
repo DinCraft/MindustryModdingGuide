@@ -1,0 +1,45 @@
+{
+    "tags":[
+        {
+            "type":"text",
+            "text":"To start modding you will need to download mod template. Here is the download link:"
+        },
+        {
+            "type":"link",
+            "text":"MindustryJavaModTemplate",
+            "link":"https://github.com/Anuken/MindustryJavaModTemplate"
+        },
+        {
+            "type":"image",
+            "link":"1.PNG"
+        },
+        {
+        	"type":"text",
+        	"text":"After downloading the mod template open Eclipse and import it as an Existing Gradle Project"
+        },
+        {
+            "type":"image",
+            "link":"2.PNG"
+        },
+        {
+            "type":"image",
+            "link":"3.PNG"
+        },
+        {
+            "type":"image",
+            "link":"4.PNG"
+        },
+        {
+            "type":"image",
+            "link":"5.PNG"
+        },
+        {
+            "type":"image",
+            "link":"6.PNG"
+        },
+        {
+        	"type":"text",
+        	"text":"If you see something like this then congratulations! You're ready for Mindustry modding."
+        }
+    ]
+}

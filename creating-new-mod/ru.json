@@ -1,0 +1,45 @@
+{
+    "tags":[
+        {
+            "type":"text",
+            "text":"Чтобы начать делать модификации, необходимо скачать шаблон мода. Вот ссылка для скачивания:"
+        },
+        {
+            "type":"link",
+            "text":"MindustryJavaModTemplate",
+            "link":"https://github.com/Anuken/MindustryJavaModTemplate"
+        },
+        {
+            "type":"image",
+            "link":"1.PNG"
+        },
+        {
+        	"type":"text",
+        	"text":"После скачивания шаблона модификации откройте Eclipse и импортируйте его как Existing Gradle Project"
+        },
+        {
+            "type":"image",
+            "link":"2.PNG"
+        },
+        {
+            "type":"image",
+            "link":"3.PNG"
+        },
+        {
+            "type":"image",
+            "link":"4.PNG"
+        },
+        {
+            "type":"image",
+            "link":"5.PNG"
+        },
+        {
+            "type":"image",
+            "link":"6.PNG"
+        },
+        {
+        	"type":"text",
+        	"text":"Если Вы видите что-то вроде этого, то поздравляю! Вы готовы к созданию модификации для Mindustry."
+        }
+    ]
+}
