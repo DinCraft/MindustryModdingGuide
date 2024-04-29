@@ -1,0 +1,17 @@
+{
+    "tags":[
+        {
+            "type":"text",
+            "text":"To start modding you will need to download mod template. Here is the download link:"
+        },
+        {
+            "type":"link",
+            "text":"Some text",
+            "link":"https://json.org/example.html"
+        },
+        {
+            "type":"image",
+            "link":"1.PNG"
+        }
+    ]
+}
