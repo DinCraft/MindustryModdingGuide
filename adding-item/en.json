@@ -1,0 +1,88 @@
+{
+    "tags":[
+        {
+            "type":"text",
+            "text":"This lesson is about adding items into Mindustry."
+        },
+        {
+            "type":"text",
+            "text":"Firstly, create new class, which will contain all modded items:"
+        },
+        {
+            "type":"image",
+            "link":"1.PNG"
+        },
+        {
+        	"type":"text",
+        	"text":"Then create field of Item class and initialize it in load method like this:"
+        },
+        {
+            "type":"image",
+            "link":"2.PNG"
+        },
+        {
+        	"type":"text",
+        	"text":"Explanation:"
+        },
+        {
+        	"type":"text",
+        	"text":"You're calling the constructor of Item class and passing two arguments: String name, Color color"
+        },
+        {
+        	"type":"text",
+        	"text":"Before explaining Item's fileds you'll need to add texture. It should be a .png file with 16x16 resolution. It should be placed in assets/sprites/items folder and must be called the same as name argument you've passed:"
+        },
+        {
+            "type":"image",
+            "link":"3.PNG"
+        },
+        {
+        	"type":"text",
+        	"text":"Now about item's attributes."
+        },
+        {
+        	"type":"text",
+        	"text":"int hardness - drill hardness of the item."
+        },
+        {
+        	"type":"text",
+        	"text":"float cost - base material cost of this item, used for calculating place times 1 cost = 1 tick added to build time."
+        },
+        {
+        	"type":"text",
+        	"text":"boolean lowPriority - if true, this item is of the lowest priority to drills."
+        },
+        {
+        	"type":"text",
+        	"text":"boolean buildable - If true, this material is used by buildings. If false, this material will be incinerated in certain cores."
+        },
+        {
+        	"type":"text",
+        	"text":"float explosiveness - how explosive this item is."
+        },
+        {
+        	"type":"text",
+        	"text":"float flammability - flammability above 0.3 makes this eligible for item burners."
+        },
+        {
+        	"type":"text",
+        	"text":"float charge - how electrically potent this item is."
+        },
+        {
+        	"type":"text",
+        	"text":"float healthScaling - When this item is present in the build cost, a block's default health is multiplied by 1 + scaling, where 'scaling' is summed together for all item requirement types."
+        },
+        {
+        	"type":"text",
+        	"text":"boolean alwaysUnlocked - Whether this content is always unlocked in the tech tree."
+        },
+       	{
+        	"type":"text",
+        	"text":"Here all item's attributes were shown. If you've done everything correctly, then your item was added and it may look loke this:"
+        },
+        {
+            "type":"image",
+            "link":"4.PNG"
+        }
+    ]
+}
